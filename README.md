@@ -2,5 +2,6 @@
 A simple webpage about me
 
 # Tech Stack 
+* python
 
 
